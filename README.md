@@ -1,2 +1,3 @@
 # LLM-Llama-Exploration
-This is for exploring Llama models.
+
+Tuning Llama LLM model at HuggingFace with a customized training set. 
