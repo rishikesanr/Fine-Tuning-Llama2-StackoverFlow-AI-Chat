@@ -2,7 +2,7 @@
 
 pip install -r requirements.txt
 
-python3 train_rishikesan.py   --hf_token *********************** \
+python3 train.py   --hf_token *********************** \
                 --data_path jbrophy123/stackoverflow_dataset \
                 --lora_dir rishikesanr/stack-overflow-bot-llama2 \
                 --num_train_epochs 10 \
