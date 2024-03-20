@@ -20,7 +20,7 @@ from trl import SFTTrainer
 
 from utils import print_trainable_parameters, find_all_linear_names
 
-from train_args import ScriptArguments
+from train_args_rishikesan import ScriptArguments
 
 from peft import LoraConfig, get_peft_model, PeftConfig, PeftModel, prepare_model_for_kbit_training
 
